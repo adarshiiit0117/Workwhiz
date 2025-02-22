@@ -1,4 +1,4 @@
-# 🛠️ WorkWhiz – Project Management & Learning Platform  
+# 🛠️ WorkWhiz – EMPOWRING TEAM ENHANCING SUCCESS
 
 ## 📌 Key Features  
 
