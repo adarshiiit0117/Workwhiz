@@ -37,7 +37,8 @@
 - **Redux** – Global state management  
 - **React Router DOM** – Smooth navigation between pages  
 - **Tailwind CSS & ShadCN UI** – Responsive and modern styling  
-- **Socket.io** – Real-time chat integration  
+- **Socket.io** – Real-time chat integration 
+
 
 ### **Backend**  
 - **Spring Boot** – Robust backend framework  
@@ -48,5 +49,17 @@
 
 ### **Payment Integration**  
 - **Razorpay** – Secure, real-time payment processing  
+![WORK WHIZ](https://github.com/user-attachments/assets/6a76bf66-275b-4eb2-9300-3a827c8adfd0)
+![image](https://github.com/user-attachments/assets/cf097ebc-bb69-4b61-8414-d5cfc88154ec)
+
+![image](https://github.com/user-attachments/assets/0181ede3-697b-455d-8b08-750c399e51ae)
+![image](https://github.com/user-attachments/assets/c3eccadf-d4d5-44c7-8181-55367a0310a3)
+![image](https://github.com/user-attachments/assets/718718ed-04d2-4b60-a323-17cdb54b2e66)
+![WhatsApp Image 2025-02-22 at 09 18 19_0cfab790](https://github.com/user-attachments/assets/a785c975-a838-427d-801e-28b99de8964f)
+
+
+
+
+
 
 
